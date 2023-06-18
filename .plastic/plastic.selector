@@ -1,0 +1,4 @@
+repository "甜品店@unity_5bbe3de256e8b283529b@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
