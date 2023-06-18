@@ -14,7 +14,7 @@ public class Switch : MonoBehaviour
 
     void OnClick()
     {
-        SceneManager.LoadScene(0);//切换到场景2
+        SceneManager.LoadScene("DessertStore");//切换到场景2
     }
 
 }

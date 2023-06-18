@@ -13,6 +13,6 @@ public class Switch1 : MonoBehaviour
 
     void OnClick()
     {
-        SceneManager.LoadScene(4);//切换到场景2
+        SceneManager.LoadScene("outdoor");//切换到场景2
     }
 }

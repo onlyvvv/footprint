@@ -9,10 +9,10 @@ public class Jump : MonoBehaviour
 {
     public void GotonewScene()
     {
-        SceneManager.LoadScene(5);
+        SceneManager.LoadScene("Note");
     }
     public void GotoroomScene()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("Room");
     }
 }

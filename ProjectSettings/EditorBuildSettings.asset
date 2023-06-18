@@ -5,15 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/DessertStore.unity
+    path: Assets/Scenes/SampleScene1.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Room.unity
-    guid: c51b6ccf6fe0aa1428478d680af0def8
+    path: Assets/Scenes/sign.unity
+    guid: eee678c93722c4944a6670ec8f3a9622
   - enabled: 1
-    path: Assets/Scenes/Switch.unity
-    guid: d0bc07032fa0601439e99f5967c1960b
+    path: Assets/Scenes/Note.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/DessertStore.unity
+    guid: c9a25b08dd64b844c8e4296977d04368
   - enabled: 1
     path: Assets/Scenes/indoor.unity
     guid: 38492eb7236fa0343ae6b502a83a8da9
@@ -21,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/outdoor.unity
     guid: a5c4c6fcdb0a7a14bbb9f89989b0ccd7
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Room.unity
+    guid: c51b6ccf6fe0aa1428478d680af0def8
+  - enabled: 1
+    path: Assets/Scenes/Switch.unity
+    guid: d0bc07032fa0601439e99f5967c1960b
   m_configObjects: {}
